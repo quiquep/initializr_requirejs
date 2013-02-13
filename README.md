@@ -1,4 +1,4 @@
-initializr_requirejs
+Initializr + RequireJS
 ====================
 
-Initializr + requireJS testing
+Initializr + requireJS testing.
